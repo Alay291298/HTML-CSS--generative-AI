@@ -1,0 +1,215 @@
+### Kamdar Advertising Pvt. Ltd. Text-Based Prototype
+
+---
+
+#### **Homepage**
+
+**Header:**
+- Logo
+- Navigation Menu: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+
+**Main Banner:**
+- Background: High-quality image or video
+- Text: "Welcome to Kamdar Advertising Pvt. Ltd."
+- Button: "Contact Us" / "Request a Quote"
+
+**Overview of Services:**
+- Section Title: "Our Services"
+- Services List (each with an icon/image and brief description):
+  - Advertising
+  - Exhibitions
+  - Printing Solutions
+  - Event Management
+  - Digital Printing
+  - Electronic Media
+  - Radio Jingles
+  - TV Channel Scrolling
+- Link: "Learn More" (links to Services page)
+
+**Portfolio/Showcase:**
+- Section Title: "Our Work"
+- Carousel/Grid Layout:
+  - Project 1: Image, Title, Short Description
+  - Project 2: Image, Title, Short Description
+  - (Additional Projects)
+- Link: "View More" (links to Portfolio page)
+
+**Client Testimonials:**
+- Section Title: "What Our Clients Say"
+- Testimonials Slider:
+  - Testimonial 1: Quote, Client Name, Photo
+  - Testimonial 2: Quote, Client Name, Photo
+  - (Additional Testimonials)
+
+**Footer:**
+- Quick Links: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+- Social Media Links: [Facebook] [Twitter] [LinkedIn] [Instagram]
+- Contact Information: Phone Number, Email Address, Physical Address
+
+---
+
+#### **About Us**
+
+**Header:**
+- Logo
+- Navigation Menu: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+
+**Main Content:**
+- Section Title: "Company History"
+- Text: Detailed history of Kamdar Advertising Pvt. Ltd.
+
+- Section Title: "Mission and Vision"
+- Text: Company mission and vision statements
+
+- Section Title: "Our Team"
+- Team Members:
+  - Creative Director: Name, Photo, Bio
+  - Graphic Designers: Names, Photos, Bios
+  - 3D Designers/Modelers: Names, Photos, Bios
+  - Copywriters: Names, Photos, Bios
+  - Production Manager: Name, Photo, Bio
+  - Print Specialists: Names, Photos, Bios
+  - Marketing Manager: Name, Photo, Bio
+  - Sales Executives: Names, Photos, Bios
+  - Account Managers: Names, Photos, Bios
+  - Customer Support: Names, Photos, Bios
+  - Web Developers: Names, Photos, Bios
+  - IT Support: Names, Photos, Bios
+  - Event Planners: Names, Photos, Bios
+  - Logistics Coordinators: Names, Photos, Bios
+
+**Footer:**
+- Same as Homepage
+
+---
+
+#### **Services**
+
+**Header:**
+- Logo
+- Navigation Menu: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+
+**Main Content:**
+- Section Title: "Our Services"
+- Service List with Links to Individual Pages:
+  - Advertising
+  - Exhibition
+  - Printing Solutions
+  - Event Management
+  - Digital Printing
+  - Electronic Media
+  - Radio Jingles
+  - TV Channel Scrolling
+
+- **Each Service Page:**
+  - Title: Service Name
+  - Detailed Description
+  - Images/Videos of Related Projects
+
+**Footer:**
+- Same as Homepage
+
+---
+
+#### **Portfolio**
+
+**Header:**
+- Logo
+- Navigation Menu: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+
+**Main Content:**
+- Section Title: "Case Studies"
+- Case Studies List:
+  - Case Study 1: Title, Objectives, Process, Outcomes, Images
+  - Case Study 2: Title, Objectives, Process, Outcomes, Images
+  - (Additional Case Studies)
+
+- Section Title: "Gallery"
+- Image and Video Gallery: High-quality images and videos displayed in a grid or carousel layout
+
+**Footer:**
+- Same as Homepage
+
+---
+
+#### **Clients**
+
+**Header:**
+- Logo
+- Navigation Menu: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+
+**Main Content:**
+- Section Title: "Our Clients"
+- Client List: Logos of major clients
+
+- Section Title: "Success Stories"
+- Success Stories List:
+  - Success Story 1: Client Name, Project Details, Outcomes, Client Quote
+  - Success Story 2: Client Name, Project Details, Outcomes, Client Quote
+  - (Additional Success Stories)
+
+**Footer:**
+- Same as Homepage
+
+---
+
+#### **Blog/News**
+
+**Header:**
+- Logo
+- Navigation Menu: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+
+**Main Content:**
+- Section Title: "Latest Updates"
+- Blog Posts List:
+  - Post 1: Title, Summary, Link to Full Article
+  - Post 2: Title, Summary, Link to Full Article
+  - (Additional Posts)
+
+**Footer:**
+- Same as Homepage
+
+---
+
+#### **Contact Us**
+
+**Header:**
+- Logo
+- Navigation Menu: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+
+**Main Content:**
+- Section Title: "Get in Touch"
+- Contact Form: Fields for name, email, phone, message
+- Contact Information: Phone number, email address, physical address
+- Map: Embedded Google Map showing office location
+
+**Footer:**
+- Same as Homepage
+
+---
+
+#### **Careers**
+
+**Header:**
+- Logo
+- Navigation Menu: Home | About Us | Services | Portfolio | Clients | Blog/News | Contact Us | Careers
+
+**Main Content:**
+- Section Title: "Join Our Team"
+- Job Openings List:
+  - Job Opening 1: Title, Description, Requirements, Apply Button
+  - Job Opening 2: Title, Description, Requirements, Apply Button
+  - (Additional Job Openings)
+
+- Section Title: "Company Culture"
+- Text: Description of work environment and company values
+
+- Section Title: "Apply Now"
+- Application Form: Fields for name, email, phone, resume upload, cover letter
+
+**Footer:**
+- Same as Homepage
+
+---
+
+This text-based prototype outlines the structure and content for each page of the Kamdar Advertising Pvt. Ltd. website. You can use this as a guide for designing and developing the site.
